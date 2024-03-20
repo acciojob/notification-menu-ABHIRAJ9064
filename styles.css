@@ -1,1 +1,60 @@
 /*  your css code here. If applicable */
+#container {
+   width: 280px;
+	height:200px;
+   padding: 10px;
+	color:white;
+   border-radius: 10px;
+   background-color: #764ABC;
+}
+	.container1 {
+	display:inline;		
+   width: 30px;
+	height:100px;
+   padding: 10px;
+   border-radius: 5px;
+	margin-top: 125px;	
+   background-color: #481499;
+}
+	.container2 {
+		display:inline;		
+   width: 30px;
+	height:100px;
+		margin-left:5px;
+   padding: 10px;
+   border-radius: 10px;
+	margin-top: 25px;		
+   background-color: #481499;
+}
+.notification {
+   margin: 10px auto;
+   padding: 10px;
+   border-radius: 10px;
+   background-color: white;
+}
+.notification img {
+   width: 100px;
+   height: 100px;
+   border-radius: 50%;
+   border: 1px solid black;
+}
+.notification p {
+   margin-left: 10px;
+   font-weight: bold;
+}
+.time {
+   position: absolute;
+   bottom: 0;
+   right: 0;
+   font-size: 12px;
+   font-style: italic;
+   font-weight: normal;
+}
+.button {
+   margin-top: 10px;
+   font-size: 16px;
+   border-radius: 10px;
+   padding: 10px;
+   background-color: #02203c;
+   color: white;
+}
